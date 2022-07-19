@@ -8,6 +8,7 @@ HTML, CSS, Javascript.
 
 ## Example Image
 
+![screencapture-127-0-0-1-5500-Develop-index-html-2022-07-18-21_52_55](https://user-images.githubusercontent.com/107006987/179814054-d3bc37ea-8128-4dba-8a8c-c7465cc77f86.png)
 
 
 ## Live URL
