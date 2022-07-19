@@ -72,7 +72,7 @@ textarea {
 .timeslots-container {
   list-style-type: none;
   display: grid;
-  background-color: lightgray;
+  background-color: lightblue;
   text-align: left;
   font-size:25px;
   color:black;
@@ -81,6 +81,7 @@ textarea {
 li {
   margin: 40px;
   list-style: none;
+  
 }
 ul{
   padding: 0;
